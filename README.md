@@ -49,20 +49,16 @@ programming-portfolio/
 - **Predictive Text Engine:** Developed an autocomplete system leveraging tries and string processing for efficient predictive text functionality.
 - **WikiWalker:** Designed a graph traversal tool to explore Wikipedia link networks using BFS/DFS strategies.
 
-### **/CMSI 2130: Algorithms & Analysis** 
+### **CMSI 2130: Algorithms & Analysis** 
 - **Maze Biathlon:** Applied A* search to navigate mazes with variable costs and shooting actions to hit all targets.
 - **Tic-Tac-Total (α-β Minimax):** Created an optimal Tic-Tac-Toe variant agent using minimax with alpha-beta pruning.
 - **Distle Solver:** Implemented an edit-distance game solver and intelligent agent to guess words with transformation feedback.
 - **Huffman Compressor:** Built a Huffman coding algorithm for efficient text compression and decompression.
 - **CSP Scheduler:** Engineered a constraint satisfaction problem solver for scheduling meetings with backtracking and consistency checks using a hillclimbing with simulated annealing approach. 
 
-## **Skills Demonstrated**
+## **Reflections & Learning Outcomes**c
 
-## **Documentation**
-
-
-
-## **Reflections & Learning Outcomes**
+Through these projects, I gained practical experience bridging theory with real implementations, improving my ability to frame problems, evaluate trade-offs, and optimize solutions. I learned the value of efficiency, persistence in debugging, and adaptability in applying different strategies. Most importantly, I developed confidence in communicating technical work clearly—skills that provide a strong foundation for future growth in analytics, software engineering, and data-driven problem solving.
 
 ## **Contact**
 
