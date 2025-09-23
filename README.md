@@ -60,7 +60,7 @@ programming-portfolio/
 
 Through these projects, I gained practical experience bridging theory with real implementations, improving my ability to frame problems, evaluate trade-offs, and optimize solutions. I learned the value of efficiency, persistence in debugging, and adaptability in applying different strategies. Most importantly, I developed confidence in communicating technical work clearly—skills that provide a strong foundation for future growth in analytics, software engineering, and data-driven problem solving.
 
-## **Contact**
+## **Contact Information**
 
 - Mobile: +1 (424)-393-8271
 - Email (primary): awinter9@lion.lmu.edu
